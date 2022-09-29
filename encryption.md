@@ -16,6 +16,8 @@ In this video Dr. Mike Pound discusses the mathmathmatics behind Diffie-Hellman,
 
 # TLS
 
+In this video Dr. Mike Point discusses where TLS came from and where it exists in the layers of the internet: https://www.youtube.com/watch?v=0TLDTodL7Lc (Computerphile)
+
 ## TLS Handshake
 
 In this video Dr. Mike Pound discusses the TLS handshake: https://www.youtube.com/watch?v=86cQJ0MMses (Computerphile)
