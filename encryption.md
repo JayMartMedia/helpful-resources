@@ -2,7 +2,7 @@
 
 # RSA (Rivest–Shamir–Adleman)
 
-RSA is a standard asymmetric (public/private) key encryption algorithm. Often used for SSH keys, TLS handshakes, and more.
+RSA is a standard asymmetric (public/private) key encryption algorithm. Often used for SSH keys, TLS handshakes, and more. RSA is slower than symmetric key algorithms such as AES, so RSA is typically used to exchange a primary key at the beginning of a session. Then the symmetric key is used to encrypt and decrypt the data payloads that are transmitted throughout the session. 
 
 ### Breaking RSA
 
@@ -20,7 +20,7 @@ In this video Dr. Mike Pound explains how DH is susceptible to a man-in-the-midd
 
 # AES (Advanced Encryption Standard)
 
-AES is a standard symmetric key encryption algorithm that uses 128 bit blocks, with a 128, 192, or 256 bit key. Often used for SSL/TLS, file encryption, and more.
+AES is a standard symmetric key encryption algorithm that uses 128 bit blocks, with a 128, 192, or 256 bit key. Often used for SSL/TLS, file encryption, and more. AES is faster than RSA, and therefore typically used to encrypt and decrypt data payloads once both parties have the key.
 
 In this video Dr. Mike Pound discusses how and why AES was chosen as the standard symmetric key encryption algorithm: https://youtu.be/VYech-c5Dic (Computerphile)
 
