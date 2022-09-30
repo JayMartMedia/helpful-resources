@@ -26,7 +26,7 @@ In this video Dr. Mike Pound discusses how and why AES was chosen as the standar
 
 In this video Dr. Mike Pound walks through the AES algorithm: https://youtu.be/O4xNJsjtN6E (Computerphile)
 
-# TLS
+# TLS (Transport Layer Security)
 
 In this video Dr. Mike Point discusses where TLS came from and where it sits within the layers of the internet: https://www.youtube.com/watch?v=0TLDTodL7Lc (Computerphile)
 
