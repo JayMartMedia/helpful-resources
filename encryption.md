@@ -16,6 +16,8 @@ In this video Dr. Mike Pound combines colored water to demonstrate how Diffie-He
 
 In this video Dr. Mike Pound discusses the mathmathmatics behind Diffie-Hellman, specifically the concept of how (g<sup>a</sup>)<sup>b</sup> == g<sup>a\*b</sup> == (g<sup>b</sup>)<sup>a</sup> : https://www.youtube.com/watch?v=Yjrfm_oRO0w (Computerphile)
 
+In this video Dr. Mike Pound explains how DH is susceptible to a man-in-the-middle attack and how RSA works in conjunction with DH to protect against this: https://youtu.be/vsXMMT2CqqE (Computerphile)
+
 # AES (Advanced Encryption Standard)
 
 AES is a standard symmetric key encryption algorithm that uses 128 bit blocks, with a 128, 192, or 256 bit key. Often used for SSL/TLS, file encryption, and more.
