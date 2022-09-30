@@ -33,3 +33,17 @@ In this video Dr. Mike Point discusses where TLS came from and where it sits wit
 ### TLS Handshake
 
 In this video Dr. Mike Pound discusses the TLS handshake: https://www.youtube.com/watch?v=86cQJ0MMses (Computerphile)
+
+# SP network (Substitution/Permutation)
+
+In this video Dr. Mike Pound discusses the concept of a substitution and permutation network which is what AES is based on: https://youtu.be/DLjzI5dX8jc (Computerphile)
+
+# Elliptic Curve
+
+Elliptic Curve cryptography is an alternative to Diffie-Hellman. Elliptic curve is more difficult to reverse engineer and therefore can use shorter keys which speeds gives elliptic curve a speed advantage over Diffie-Hellman.
+
+There may be some curves which are not as secure as others (allow backdoors), therefore there are still researchers who are skeptical about trusting elliptic curve cryptography.
+
+In this video Dr. Mike Pound explains the concept of elliptic curve cryptography: https://youtu.be/NF1pwjL9-DE (Computerphile)
+
+In this video Dr. Mike Pound discusses a time when NIST pushed for specific values for P and Q which along with other circumstances led researchers to believe that these values of P and Q allowed the NSA a backdoor into keys generated using these values: https://youtu.be/nybVFJVXbww (Computerphile)
