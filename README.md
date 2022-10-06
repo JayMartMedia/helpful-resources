@@ -9,3 +9,7 @@ A list of encryption topics such as RSA, Diffie-Hellman, AES, TLS and more. Lots
 ## [Networking](./networking.md)
 
 An overview of networking topics including the OSI model
+
+## [Software Development Recommended Practices](./software-development-recommended-practices.md)
+
+A list of practices that may help to improve your team and make your life easier
