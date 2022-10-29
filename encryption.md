@@ -1,5 +1,9 @@
 # Helpful Resources About Encryption
 
+# E2EE (End-to-end encryption)
+
+Dr. Mike Pound explains how end-to-end encryption works, and vulnerabilities that could arise if e2e encryption could not be used: https://youtu.be/jkV1KEJGKRA (Computerphile)
+
 # RSA (Rivest–Shamir–Adleman)
 
 RSA is a standard asymmetric (public/private) key encryption algorithm. Often used for SSH keys, TLS handshakes, and more. RSA is slower than symmetric key algorithms such as AES, so RSA is typically used to exchange a primary key at the beginning of a session. Then the symmetric key is used to encrypt and decrypt the data payloads that are transmitted throughout the session. 
