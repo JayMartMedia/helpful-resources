@@ -9,3 +9,6 @@ Cons:
 - More difficult to manage who is allowed to see data. Need to make sure you have something in place to prevent unauthorized applications/users from consuming from the topic.
 - Difficult to see the message backlog. Each consumer manages this themself, so the producer does not know how far behind each consumer is. (Good for decoupling, but can be an issue of this functionality is needed)
 
+Things to consider:
+- Data is homogeneous. If each consumer needs the same data, this is perfectly fine. But if some consumers need some portion of the data, and other consumers need a different portion, then it may be better to insert each bit of data in a queue for each consumer.
+
