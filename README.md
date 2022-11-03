@@ -17,3 +17,7 @@ An overview of the Apache Kafka message queue
 ## [Software Development Recommended Practices](./software-development-recommended-practices.md)
 
 A list of practices that may help to improve your team and make your life easier
+
+## [Quality YouTube Channels](./youtube-channels.md)
+
+A list of quality YouTube channels around the computer science industry and general CS topics
