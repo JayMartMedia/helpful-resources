@@ -12,3 +12,8 @@ Cons:
 Things to consider:
 - Data is homogeneous. If each consumer needs the same data, this is perfectly fine. But if some consumers need some portion of the data, and other consumers need a different portion, then it may be better to insert each bit of data in a queue for each consumer.
 
+# Kafka Connect
+
+Kafka Connect is an ecosystem of tools that can be used to connect databases, data sources, and more to a Kafka topic. Connectors can be used as producers and consumers.
+
+"Apache Kafka 101: Kafka Connect" by Confluent: https://youtu.be/J6adhl3wEj4
