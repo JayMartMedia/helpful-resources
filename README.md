@@ -6,13 +6,17 @@ A list of resources I have found helpful!
 
 A list of encryption topics such as RSA, Diffie-Hellman, AES, TLS and more. Lots of videos from Computerphile!
 
+## [Kafka](./Kafka.md)
+
+An overview of the Apache Kafka message queue 
+
 ## [Networking](./networking.md)
 
 An overview of networking topics including the OSI model
 
-## [Kafka](./Kafka.md)
+## [Site Reliability Engineering Career](./site-reliability-engineering.md)
 
-An overview of the Apache Kafka message queue 
+A write up of my impression of the SRE role. Note that this is my outside impression since I am a software developer, not actually an SRE.
 
 ## [Software Development Recommended Practices](./software-development-recommended-practices.md)
 
