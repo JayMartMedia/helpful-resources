@@ -70,6 +70,10 @@ As with all potential careers, salary is relevant. Here are a few links to vario
 - levels.fyi - https://www.levels.fyi/t/software-engineer/focus/site-reliability-sre
 - payscale.com - https://www.payscale.com/research/US/Job=Site_Reliability_Engineer_(SRE)/Salary
 
+## Remote Work
+
+SRE roles, like other software roles, are often remote. Although in-person/hybrid jobs can also be found if that is something you prefer.
+
 # SRE Concepts/Tools/Skills
 
 Here are some general concepts, tools, and skills that may be helpful for someone in an SRE position. Note that all of the items listed below are not necessarily hard requirements. Full proficiency is not necessarily required for each of the listed items, working knowledge will be enough in a lot of cases.
