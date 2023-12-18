@@ -6,7 +6,7 @@ A list of resources I have found helpful!
 
 A list of encryption topics such as RSA, Diffie-Hellman, AES, TLS and more. Lots of videos from Computerphile!
 
-## [Kafka](./Kafka.md)
+## [Kafka](./kafka.md)
 
 An overview of the Apache Kafka message queue 
 
