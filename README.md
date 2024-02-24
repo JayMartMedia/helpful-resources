@@ -1,4 +1,8 @@
-# Helpful Resources
+# Archived
+
+This repo is now archived since it has been moved to [https://jaymartmedia.github.io/articles/helpful-resources/](https://jaymartmedia.github.io/articles/helpful-resources/) ([source](https://github.com/JayMartMedia/jaymartmedia.github.io/tree/main/docs/helpful-resources)).
+
+<!--# Helpful Resources
 
 A list of resources I have found helpful!
 
@@ -24,4 +28,4 @@ A list of practices that may help to improve your team and make your life easier
 
 ## [Quality YouTube Channels](./youtube-channels.md)
 
-A list of quality YouTube channels around the computer science industry and general CS topics
+A list of quality YouTube channels around the computer science industry and general CS topics-->
